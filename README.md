@@ -1,16 +1,16 @@
-# _Appointments_
+# _Voting Information_
 
-#### _Appointments 01/16/2019_
+#### _Voting Information 01/17/2019_
 
-#### By _**Kenny Halim and Yulia Shidlovskaya**_
+#### By _**Kenny Halim and Theary Im**_
 
 ## Description
 
-_This is a website for making appoinments._
+_This is a website containing voting resources for minors and adults._
 
 ## Support and contact details
 
-_Feel free to use this code, contact me at kennyhalim98@gmail.com, sjullieb@gmail.com_
+_Feel free to use this code, contact me at kennyhalim98@gmail.com, thearyim@gmail.com_
 
 ## Technologies Used
 
@@ -26,4 +26,4 @@ _Feel free to use this code, contact me at kennyhalim98@gmail.com, sjullieb@gmai
 MIT
 **
 
-Copyright (c) 2019 **_Kenny Halim and Yulia Shidlovskaya_**
+Copyright (c) 2019 **_Kenny Halim and Theary Im_**
